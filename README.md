@@ -3,7 +3,7 @@
 
 - 🦍Helo, am Linus🦍
 - I have art experience with Blender and aseprite.
-- 🌱 I’m currently learning c++, Godot, Unreal, OpenGL, Vulkan and SQL.
+- 🌱 I’m currently learning c++, Godot, Unity, Unreal, OpenGL, Vulkan and SQL.
 - 🖋 Am interested in 2D and 3D art, games and cool artstyles (graphics)!
 - 💬 Ask me about skrankel
 - 📫 How to reach me: linus.nordbakken@gmail.com
